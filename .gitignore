@@ -1,0 +1,9 @@
+obj/
+bin/
+out/
+splitenum
+splitenum-mpi
+splitenum-gpu
+*.o
+*.so
+__pycache__/

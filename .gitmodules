@@ -1,0 +1,4 @@
+[submodule "libs/libisotopy"]
+	path = libs/libisotopy
+	url = https://github.com/polymake/libisotopy.git
+	branch = master

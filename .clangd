@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -Isrc
+    - -Ilibs/libisotopy/include
+    - -Ilibs/libisotopy/tests
+    - -DMAX_DELTA=8
+    - -fopenmp
