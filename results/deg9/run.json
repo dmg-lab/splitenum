@@ -1,0 +1,23 @@
+{
+  "cli": "splitenum --delta 9 --listen 0 --out d9-exact",
+  "delta": 9,
+  "family": "all",
+  "drop_same_side": true,
+  "drop_trivial": true,
+  "drop_collinear": false,
+  "max_depth": 0,
+  "threads": 32,
+  "count_only": false,
+  "symmetry": true,
+  "symmetry_group_order": 6,
+  "nsplits": 1437,
+  "compat_pairs": 352227,
+  "total_nodes": 57065860838381,
+  "max_depth_reached": 33,
+  "classified_nodes": 9510977430319,
+  "errors": 0,
+  "seconds": 15384.5,
+  "scheduler": "jobs",
+  "jobs_done": 457893967,
+  "nodes_per_depth": [1, 1437, 352227, 25546187, 736489122, 10297846230, 79920644939, 381037411518, 1212952180968, 2766710084246, 4806961640088, 6710562039006, 7876045162782, 8052512430369, 7350826687611, 6079315670874, 4583890444497, 3150808376844, 1964698984926, 1102720450803, 552141543225, 244464009790, 94917487113, 32059118022, 9341179893, 2326012545, 489419991, 85791252, 12296589, 1404282, 122940, 7746, 312, 6]
+}

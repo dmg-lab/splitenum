@@ -25,16 +25,13 @@ Related work:
 
 ## Results
 
-Counts are exact over the full tree; the walk visits one representative per
-orbit of the S_3 symmetry of the simplex.
-
-| Degree | Splits | Nodes | M-schemes |
-|---|---:|---:|---:|
-| 5 | 78 | 7,915 | 1 |
-| 6 | 222 | 1,035,083 | 3 |
-| 7 | 444 | 296,740,751 | 14 |
-| 8 | 873 | 105,949,232,275 | 38 |
-| 9 | 1,437 | 57,065,860,838,381 | 225 |
+| Degree | Splits | Nodes | M-schemes | Data |
+|---|---:|---:|---:|---|
+| 5 | 78 | 7,915 | 1 | |
+| 6 | 222 | 1,035,083 | 3 | |
+| 7 | 444 | 296,740,751 | 14 | |
+| 8 | 873 | 105,949,232,275 | 38 | [statistics](results/deg8), [witnesses](https://github.com/dmg-lab/CombinatorialPatchworking/tree/main/deg8) |
+| 9 | 1,437 | 57,065,860,838,381 | 225 | [statistics](results/deg9), [witnesses](https://github.com/dmg-lab/CombinatorialPatchworking/tree/main/deg9) |
 
 ## Building
 

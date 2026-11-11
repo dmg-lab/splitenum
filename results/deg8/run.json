@@ -1,0 +1,23 @@
+{
+  "cli": "splitenum --delta 8 --scheduler jobs --classify gpu --gpu-check 1024 --threads 16 --out d8-harnack",
+  "delta": 8,
+  "family": "all",
+  "drop_same_side": true,
+  "drop_trivial": true,
+  "drop_collinear": false,
+  "max_depth": 0,
+  "threads": 16,
+  "count_only": false,
+  "symmetry": true,
+  "symmetry_group_order": 6,
+  "nsplits": 873,
+  "compat_pairs": 127764,
+  "total_nodes": 105949232275,
+  "max_depth_reached": 25,
+  "classified_nodes": 17658249777,
+  "errors": 0,
+  "seconds": 1367.3,
+  "scheduler": "jobs",
+  "jobs_done": 829739,
+  "nodes_per_depth": [1, 873, 127764, 5433666, 91664901, 742630275, 3289360461, 8825139288, 15624284667, 19719006976, 19103782158, 15213226077, 10504945693, 6469997745, 3560400327, 1724727605, 721157058, 255512880, 75439004, 18246315, 3543612, 538194, 61509, 4968, 252, 6]
+}
